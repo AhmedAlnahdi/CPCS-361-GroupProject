@@ -1,3 +1,5 @@
+package os_simulator;
+
 public class Process {
 
     // ====== Basic Attributes ======
@@ -50,6 +52,6 @@ public class Process {
 
     @Override
     public String toString() {
-        return "Process " + processId + " [Remaining=" + remainingTime + "]";
+        return "os_simulator.Process " + processId + " [Remaining=" + remainingTime + "]";
     }
 }

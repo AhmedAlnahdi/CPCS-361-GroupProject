@@ -1,4 +1,4 @@
-import java.util.*;
+package os_simulator;
 
 public class SimulationController {
 
